@@ -1,0 +1,103 @@
+C:\Users\sist-gcalles\Documents\Informacion Personal\PVCloud\LOGICA\bin\Debug\LOGICA.dll
+C:\Users\sist-gcalles\Documents\Informacion Personal\PVCloud\LOGICA\bin\Debug\LOGICA.pdb
+C:\Users\sist-gcalles\Documents\Informacion Personal\PVCloud\LOGICA\obj\Debug\LOGICA.dll
+C:\Users\sist-gcalles\Documents\Informacion Personal\PVCloud\LOGICA\obj\Debug\LOGICA.pdb
+C:\Users\sist-gcalles\Documents\Informacion Personal\PVCloud\LOGICA\bin\Debug\DATA.dll
+C:\Users\sist-gcalles\Documents\Informacion Personal\PVCloud\LOGICA\bin\Debug\DATA.pdb
+C:\Users\sist-gcalles\Documents\Informacion Personal\PVCloud\LOGICA\obj\Debug\LOGICA.csprojResolveAssemblyReference.cache
+C:\Users\sist-gcalles\Source\Repos\PVCloud\LOGICA\bin\Debug\LOGICA.dll
+C:\Users\sist-gcalles\Source\Repos\PVCloud\LOGICA\bin\Debug\LOGICA.pdb
+C:\Users\sist-gcalles\Source\Repos\PVCloud\LOGICA\bin\Debug\DATA.dll
+C:\Users\sist-gcalles\Source\Repos\PVCloud\LOGICA\bin\Debug\DATA.pdb
+C:\Users\sist-gcalles\Source\Repos\PVCloud\LOGICA\obj\Debug\LOGICA.csprojResolveAssemblyReference.cache
+C:\Users\sist-gcalles\Source\Repos\PVCloud\LOGICA\obj\Debug\LOGICA.dll
+C:\Users\sist-gcalles\Source\Repos\PVCloud\LOGICA\obj\Debug\LOGICA.pdb
+D:\Trabajando\PVCloud\LOGICA\bin\Debug\LOGICA.dll
+D:\Trabajando\PVCloud\LOGICA\bin\Debug\LOGICA.pdb
+D:\Trabajando\PVCloud\LOGICA\bin\Debug\DATA.dll
+D:\Trabajando\PVCloud\LOGICA\bin\Debug\DATA.pdb
+D:\Trabajando\PVCloud\LOGICA\obj\Debug\LOGICA.csprojResolveAssemblyReference.cache
+D:\Trabajando\PVCloud\LOGICA\obj\Debug\LOGICA.dll
+D:\Trabajando\PVCloud\LOGICA\obj\Debug\LOGICA.pdb
+C:\Users\cgiovanny\Source\Repos\PVCloud\LOGICA\bin\Debug\LOGICA.dll
+C:\Users\cgiovanny\Source\Repos\PVCloud\LOGICA\bin\Debug\LOGICA.pdb
+C:\Users\cgiovanny\Source\Repos\PVCloud\LOGICA\bin\Debug\DATA.dll
+C:\Users\cgiovanny\Source\Repos\PVCloud\LOGICA\bin\Debug\DATA.pdb
+C:\Users\cgiovanny\Source\Repos\PVCloud\LOGICA\obj\Debug\LOGICA.csprojResolveAssemblyReference.cache
+C:\Users\cgiovanny\Source\Repos\PVCloud\LOGICA\obj\Debug\LOGICA.dll
+C:\Users\cgiovanny\Source\Repos\PVCloud\LOGICA\obj\Debug\LOGICA.pdb
+D:\Trabajando\PVCloud\LOGICA\bin\Debug\Rotativa.dll
+C:\Users\sist-gcalles\Source\Repos\PVCloud\LOGICA\bin\Debug\Rotativa.dll
+C:\Users\sist-gcalles\Source\Repos\PVCloudResp\LOGICA\bin\Debug\LOGICA.dll
+C:\Users\sist-gcalles\Source\Repos\PVCloudResp\LOGICA\bin\Debug\LOGICA.pdb
+C:\Users\sist-gcalles\Source\Repos\PVCloudResp\LOGICA\bin\Debug\DATA.dll
+C:\Users\sist-gcalles\Source\Repos\PVCloudResp\LOGICA\bin\Debug\Rotativa.dll
+C:\Users\sist-gcalles\Source\Repos\PVCloudResp\LOGICA\bin\Debug\DATA.pdb
+C:\Users\sist-gcalles\Source\Repos\PVCloudResp\LOGICA\obj\Debug\LOGICA.csprojResolveAssemblyReference.cache
+C:\Users\sist-gcalles\Source\Repos\PVCloudResp\LOGICA\obj\Debug\LOGICA.dll
+C:\Users\sist-gcalles\Source\Repos\PVCloudResp\LOGICA\obj\Debug\LOGICA.pdb
+C:\Users\sist-gcalles\Source\Repos\Inventario\LOGICA\bin\Debug\LOGICA.dll
+C:\Users\sist-gcalles\Source\Repos\Inventario\LOGICA\bin\Debug\LOGICA.pdb
+C:\Users\sist-gcalles\Source\Repos\Inventario\LOGICA\bin\Debug\DATA.dll
+C:\Users\sist-gcalles\Source\Repos\Inventario\LOGICA\bin\Debug\DATA.pdb
+C:\Users\sist-gcalles\Source\Repos\Inventario\LOGICA\obj\Debug\LOGICA.csprojResolveAssemblyReference.cache
+C:\Users\sist-gcalles\Source\Repos\Inventario\LOGICA\obj\Debug\LOGICA.dll
+C:\Users\sist-gcalles\Source\Repos\Inventario\LOGICA\obj\Debug\LOGICA.pdb
+G:\Inventario\LOGICA\bin\Debug\LOGICA.dll
+G:\Inventario\LOGICA\bin\Debug\LOGICA.pdb
+G:\Inventario\LOGICA\bin\Debug\DATA.dll
+G:\Inventario\LOGICA\bin\Debug\DATA.pdb
+G:\Inventario\LOGICA\obj\Debug\LOGICA.csprojResolveAssemblyReference.cache
+G:\Inventario\LOGICA\obj\Debug\LOGICA.dll
+G:\Inventario\LOGICA\obj\Debug\LOGICA.pdb
+D:\Trabajando\Inventario\LOGICA\bin\Debug\LOGICA.dll
+D:\Trabajando\Inventario\LOGICA\bin\Debug\LOGICA.pdb
+D:\Trabajando\Inventario\LOGICA\bin\Debug\DATA.dll
+D:\Trabajando\Inventario\LOGICA\bin\Debug\DATA.pdb
+D:\Trabajando\Inventario\LOGICA\obj\Debug\LOGICA.csprojResolveAssemblyReference.cache
+D:\Trabajando\Inventario\LOGICA\obj\Debug\LOGICA.dll
+D:\Trabajando\Inventario\LOGICA\obj\Debug\LOGICA.pdb
+E:\Inventario\LOGICA\bin\Debug\LOGICA.dll
+E:\Inventario\LOGICA\bin\Debug\LOGICA.pdb
+E:\Inventario\LOGICA\bin\Debug\DATA.dll
+E:\Inventario\LOGICA\bin\Debug\DATA.pdb
+E:\Inventario\LOGICA\obj\Debug\LOGICA.csprojResolveAssemblyReference.cache
+E:\Inventario\LOGICA\obj\Debug\LOGICA.dll
+E:\Inventario\LOGICA\obj\Debug\LOGICA.pdb
+D:\Proyectos\VS 2017\Inventario\LOGICA\bin\Debug\LOGICA.dll
+D:\Proyectos\VS 2017\Inventario\LOGICA\bin\Debug\LOGICA.pdb
+D:\Proyectos\VS 2017\Inventario\LOGICA\bin\Debug\DATA.dll
+D:\Proyectos\VS 2017\Inventario\LOGICA\bin\Debug\DATA.pdb
+D:\Proyectos\VS 2017\Inventario\LOGICA\obj\Debug\LOGICA.csprojResolveAssemblyReference.cache
+D:\Proyectos\VS 2017\Inventario\LOGICA\obj\Debug\LOGICA.csproj.CoreCompileInputs.cache
+D:\Proyectos\VS 2017\Inventario\LOGICA\obj\Debug\LOGICA.dll
+D:\Proyectos\VS 2017\Inventario\LOGICA\obj\Debug\LOGICA.pdb
+D:\Proyectos\VS 2017\Inventario\LOGICA\obj\Debug\LOGICA.csproj.CopyComplete
+D:\Proyectos\VS 2017\TestDev\LOGICA\obj\Debug\LOGICA.csprojResolveAssemblyReference.cache
+D:\Proyectos\VS 2017\TestDev\LOGICA\obj\Debug\LOGICA.csproj.CoreCompileInputs.cache
+D:\Proyectos\VS 2017\TestDev\LOGICA\bin\Debug\LOGICA.dll
+D:\Proyectos\VS 2017\TestDev\LOGICA\bin\Debug\LOGICA.pdb
+D:\Proyectos\VS 2017\TestDev\LOGICA\bin\Debug\DATA.dll
+D:\Proyectos\VS 2017\TestDev\LOGICA\bin\Debug\LinqToExcel.dll
+D:\Proyectos\VS 2017\TestDev\LOGICA\bin\Debug\Remotion.Data.Linq.dll
+D:\Proyectos\VS 2017\TestDev\LOGICA\bin\Debug\Remotion.dll
+D:\Proyectos\VS 2017\TestDev\LOGICA\bin\Debug\Remotion.Interfaces.dll
+D:\Proyectos\VS 2017\TestDev\LOGICA\bin\Debug\LinqToExcel.xml
+D:\Proyectos\VS 2017\TestDev\LOGICA\obj\Debug\LOGICA.csproj.CopyComplete
+D:\Proyectos\VS 2017\TestDev\LOGICA\obj\Debug\LOGICA.dll
+D:\Proyectos\VS 2017\TestDev\LOGICA\obj\Debug\LOGICA.pdb
+D:\Trabajando\Bertoni\TestDev\LOGICA\bin\Debug\LOGICA.dll
+D:\Trabajando\Bertoni\TestDev\LOGICA\bin\Debug\LOGICA.pdb
+D:\Trabajando\Bertoni\TestDev\LOGICA\bin\Debug\DATA.dll
+D:\Trabajando\Bertoni\TestDev\LOGICA\bin\Debug\LinqToExcel.dll
+D:\Trabajando\Bertoni\TestDev\LOGICA\bin\Debug\Remotion.Data.Linq.dll
+D:\Trabajando\Bertoni\TestDev\LOGICA\bin\Debug\Remotion.dll
+D:\Trabajando\Bertoni\TestDev\LOGICA\bin\Debug\Remotion.Interfaces.dll
+D:\Trabajando\Bertoni\TestDev\LOGICA\bin\Debug\LinqToExcel.xml
+D:\Trabajando\Bertoni\TestDev\LOGICA\obj\Debug\LOGICA.csprojAssemblyReference.cache
+D:\Trabajando\Bertoni\TestDev\LOGICA\obj\Debug\LOGICA.csproj.CoreCompileInputs.cache
+D:\Trabajando\Bertoni\TestDev\LOGICA\obj\Debug\LOGICA.csproj.CopyComplete
+D:\Trabajando\Bertoni\TestDev\LOGICA\obj\Debug\LOGICA.dll
+D:\Trabajando\Bertoni\TestDev\LOGICA\obj\Debug\LOGICA.pdb
+D:\Trabajando\Bertoni\TestDev\LOGICA\bin\Debug\Newtonsoft.Json.dll
+D:\Trabajando\Bertoni\TestDev\LOGICA\bin\Debug\Newtonsoft.Json.xml

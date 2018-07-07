@@ -1,0 +1,148 @@
+﻿@{
+    ViewBag.Title = "Inicio";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<link id="themecss" rel="stylesheet" type="text/css" href="//www.shieldui.com/shared/components/latest/css/light/all.min.css" />
+
+<section class="content">
+
+    <div class="panel panel-warning">
+        <div class="panel-heading">
+            Test
+        </div>
+        <div class="panel-body">
+            <div class="form-group">
+                <label class="col-sm-1 control-label">Albums</label>
+                <div class="col-sm-9">
+                    <select class="form-control chosen-select" name="cmbAlbums" id="cmbAlbums"></select>
+                </div>
+                <div class="col-sm-2">
+                    <button type="button" class="btn btn-success" id="viewphotos">View Photos</button>
+                </div>
+            </div>
+            
+
+        </div>
+
+    </div>
+    <div class="panel panel-warning hidden" id="divphotos">
+        <div class="panel-heading">
+            Photos
+        </div>
+        <div class="panel-body">
+            <div class="form-group">
+                <ul class="list-group" id="listPhotos"></ul>
+            </div>
+        </div>
+
+    </div>
+    <div class="panel panel-warning hidden" id="divcomments">
+        <div class="panel-heading">
+            Comments
+        </div>
+        <div class="panel-body">
+            <div class="form-group">
+                <ul class="list-group" id="listComments"></ul>
+            </div>
+
+        </div>
+
+    </div>
+</section>
+
+@section Scripts
+{
+    <script type="text/javascript" src="//www.shieldui.com/shared/components/latest/js/jquery-1.11.1.min.js"></script>
+    <script type="text/javascript" src="//www.shieldui.com/shared/components/latest/js/shieldui-all.min.js"></script>
+    <script type="text/javascript">
+
+        $(document).ready(function () {
+            getAlbums();
+
+            $('body').on('click', '#viewphotos', function () {
+                getPhotos();
+            });
+
+            $('body').on('click', '.viewcomments', function () {
+                getComments($(this).attr("id"));
+            });
+
+            function getAlbums() {
+                $.ajax({
+                    url: '@Url.Action("GetAlbums", "Home")',
+                    type: "POST",
+                    dataType: "json",
+                    async: false,
+                    success: function (result) {
+                        result.forEach(function (element) {
+                            $('#cmbAlbums').append('<option value=' + element.id + '>' + element.title + '</option>');
+                        });
+                    },
+                    error: function (error) {
+                        // si hay un error lanzara el mensaje de error
+                        alert("Error trying to get albums.");
+                    }
+                });
+            }
+
+            function getPhotos() {
+                var albumId = $("select[id=cmbAlbums]").val();
+                $('#divphotos').addClass('hidden');
+                $('#listPhotos').html('');
+                $.ajax({
+                    url: '@Url.Action("GetPhotos", "Home")',
+                    type: "POST",
+                    dataType: "json",
+                    data: { AlbumId:albumId},
+                    async: false,
+                    success: function (result) {
+                        // si la funcion se ejecuta lanzara un alert
+                        $('#divphotos').removeClass('hidden');
+                        result.forEach(function (element) {
+                            $('#listPhotos').append('<li class="list-group-item">' + element.title +'<a href="#" id="' + element.id + '" class="viewcomments">   View Comments<a></li>');
+                        });
+                        
+                    },
+                    error: function (error) {
+                        // si hay un error lanzara el mensaje de error
+                        alert("Error trying to get photos.");
+                    }
+                });
+            }
+
+            function getComments(photoId) {
+                $('#listComments').html('');
+                $('#divcomments').addClass('hidden');
+                $.ajax({
+                    url: '@Url.Action("GetComments", "Home")',
+                    type: "POST",
+                    dataType: "json",
+                    data: { PhotoId: photoId},
+                    async: false,
+                    success: function (result) {
+                        // si la funcion se ejecuta lanzara un alert
+                        $('#divcomments').removeClass('hidden');
+                        result.forEach(function (element) {
+                            $('#listComments').append('<li class="list-group-item">' + element.name + '</li>');
+                        });
+
+                    },
+                    error: function (error) {
+                        // si hay un error lanzara el mensaje de error
+                        alert("Error trying to get comments.");
+                    }
+                });
+            }    
+
+        });
+
+    </script>
+   
+}
+
+
+
+
+
+
+

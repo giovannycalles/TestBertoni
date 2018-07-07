@@ -1,0 +1,129 @@
+﻿    <!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1, user-scalable=no" />
+    <title>@ViewBag.Title | Bertoni</title>
+    @Styles.Render("~/Content/css/sitio")
+    @Styles.Render("~/Content/css/datatbles")
+    @Styles.Render("~/Content/css/plugin")
+    @Styles.Render("~/Content/css/morris")
+    @Styles.Render("~/plugins/toastrStyles")
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+            <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+            <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+</head>
+<body>
+    <div id="wrapper">
+        <header class="main-header">
+            <nav class="navbar navbar-default top-navbar" role="navigation">
+                <div class="navbar-header">
+                    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".sidebar-collapse">
+                        <span class="sr-only">Toggle navigation</span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                    </button>
+                    <a class="navbar-brand text-center" href="/Home/Home"><i class="fa fa-ils"></i><strong> Bertoni</strong></a>
+                </div>
+                <ul id="ulminmax" class="nav navbar-top-links navbar-left">
+                    <li>
+                        <a id="minmax" href="#">
+                            <i class="fa fa-chevron-left"></i>
+                            <span><strong>Giovanny Calles</strong></span>
+                            <i class="fa fa-chevron-right"></i>
+                        </a>
+                    </li>
+                </ul>
+
+            </nav>
+        </header>
+        <!--/. NAV TOP  -->
+        <aside class="main-sidebar">
+            <nav class="navbar-default navbar-side" role="navigation">
+                <div class="sidebar-collapse">
+                    <ul class="nav" id="main-menu"></ul>
+                </div>
+            </nav>
+        </aside>
+        <!-- /. NAV SIDE  -->
+        <div id="page-wrapper">
+
+            <div class="modal fade" id="myModal" role="alertdialog">
+            </div>
+            <div id="page-inner">
+                <section id="maincontent" class="content">
+                    @RenderBody()
+                </section><!-- / -->
+                <!-- /. ROW  -->
+            </div>
+            <!-- /. PAGE INNER  -->
+        </div>
+        <!-- /. PAGE WRAPPER  -->
+        <footer class="footer">
+            <div class="row">
+                <div class="col-lg-12 text-left">
+                    <span class="text-success">
+                        <strong>
+                            <i class="fa fa-copyright"></i> Todos los derechos reservados. &nbsp;&nbsp;(
+                            <i class="fa fa-wrench"></i> Diseñado por: Giovanny Calles&nbsp;&nbsp;|&nbsp;&nbsp;
+                            <i class="fa fa-phone"></i> Telf: 04245174500&nbsp;&nbsp;|&nbsp;&nbsp;
+                            <i class="fa fa-envelope"></i> Mail: giovanny_callesm@hotmail.com)
+                        </strong>
+                    </span>
+                </div>
+            </div>
+
+        </footer>
+    </div>
+    <span class="ir-arriba fa fa-chevron-circle-up"></span>
+    @Scripts.Render("~/bundles/jscripts/sitio")
+    @Scripts.Render("~/bundles/jscripts/unobtrusive-ajax")
+    @Scripts.Render("~/bundles/jscripts/dataTables")
+    @Scripts.Render("~/bundles/jscripts/morris")
+    @Scripts.Render("~/bundles/jscripts/custom")
+    @Scripts.Render("~/bundles/jscripts/plugin")
+    @Scripts.Render("~/bundles/jqueryval")
+    @Scripts.Render("~/plugins/toastr")
+    <!--Para resolver conflictos en jQuery UI tooltip con Bootstrap tooltip -->
+    <script>
+        if ('@ViewBag.Menu' != '')
+            $('@ViewBag.Menu').addClass('active');
+        if ('@ViewBag.SubMenu' != '')
+            $('@ViewBag.SubMenu').addClass('submenu-active');
+        function CerrarFormPass(obj) {
+            str = '<div class="alert alert-success flat alert-dismissable">';
+            str += '<i class="icon fa fa-check"></i>' + obj.Message;
+            str += '</div>';
+            $('#MensajeAlert').html(str);
+            setTimeout(function () {
+                $('#myModal').modal("hide");
+            }, 2000);
+        }
+        function OnBegin() {
+            $('#MensajeAlert').html('');
+            $('#loading').removeClass('hidden');
+        }
+        function OnComplete() {
+            $('#loading').addClass('hidden');
+        }
+
+    </script>
+    @RenderSection("scripts", required: false)
+    @section Scripts
+    {
+        <script type="text/javascript">
+            $(".timepicker").timepicker({
+                showInputs: false
+            });
+        </script>
+
+    }
+
+
+</body>
+</html>

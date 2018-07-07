@@ -1,0 +1,327 @@
+C:\Users\sist-gcalles\Source\Repos\Inventario\Inventario\bin\roslyn\csc.exe
+C:\Users\sist-gcalles\Source\Repos\Inventario\Inventario\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\sist-gcalles\Source\Repos\Inventario\Inventario\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\sist-gcalles\Source\Repos\Inventario\Inventario\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\sist-gcalles\Source\Repos\Inventario\Inventario\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\sist-gcalles\Source\Repos\Inventario\Inventario\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\sist-gcalles\Source\Repos\Inventario\Inventario\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\sist-gcalles\Source\Repos\Inventario\Inventario\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\sist-gcalles\Source\Repos\Inventario\Inventario\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\sist-gcalles\Source\Repos\Inventario\Inventario\bin\roslyn\vbc.exe
+C:\Users\sist-gcalles\Source\Repos\Inventario\Inventario\bin\roslyn\VBCSCompiler.exe
+C:\Users\sist-gcalles\Source\Repos\Inventario\Inventario\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\sist-gcalles\Source\Repos\Inventario\Inventario\bin\Inventario.dll.config
+C:\Users\sist-gcalles\Source\Repos\Inventario\Inventario\bin\Inventario.dll
+C:\Users\sist-gcalles\Source\Repos\Inventario\Inventario\bin\Inventario.pdb
+C:\Users\sist-gcalles\Source\Repos\Inventario\Inventario\bin\Antlr3.Runtime.dll
+C:\Users\sist-gcalles\Source\Repos\Inventario\Inventario\bin\LOGICA.dll
+C:\Users\sist-gcalles\Source\Repos\Inventario\Inventario\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\sist-gcalles\Source\Repos\Inventario\Inventario\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\sist-gcalles\Source\Repos\Inventario\Inventario\bin\Newtonsoft.Json.dll
+C:\Users\sist-gcalles\Source\Repos\Inventario\Inventario\bin\Rotativa.dll
+C:\Users\sist-gcalles\Source\Repos\Inventario\Inventario\bin\System.Web.Helpers.dll
+C:\Users\sist-gcalles\Source\Repos\Inventario\Inventario\bin\System.Web.Mvc.dll
+C:\Users\sist-gcalles\Source\Repos\Inventario\Inventario\bin\System.Web.Optimization.dll
+C:\Users\sist-gcalles\Source\Repos\Inventario\Inventario\bin\System.Web.Razor.dll
+C:\Users\sist-gcalles\Source\Repos\Inventario\Inventario\bin\System.Web.WebPages.Deployment.dll
+C:\Users\sist-gcalles\Source\Repos\Inventario\Inventario\bin\System.Web.WebPages.dll
+C:\Users\sist-gcalles\Source\Repos\Inventario\Inventario\bin\System.Web.WebPages.Razor.dll
+C:\Users\sist-gcalles\Source\Repos\Inventario\Inventario\bin\WebGrease.dll
+C:\Users\sist-gcalles\Source\Repos\Inventario\Inventario\bin\DATA.dll
+C:\Users\sist-gcalles\Source\Repos\Inventario\Inventario\bin\LOGICA.pdb
+C:\Users\sist-gcalles\Source\Repos\Inventario\Inventario\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\sist-gcalles\Source\Repos\Inventario\Inventario\bin\System.Web.Helpers.xml
+C:\Users\sist-gcalles\Source\Repos\Inventario\Inventario\bin\System.Web.Mvc.xml
+C:\Users\sist-gcalles\Source\Repos\Inventario\Inventario\bin\System.Web.Optimization.xml
+C:\Users\sist-gcalles\Source\Repos\Inventario\Inventario\bin\System.Web.Razor.xml
+C:\Users\sist-gcalles\Source\Repos\Inventario\Inventario\bin\System.Web.WebPages.xml
+C:\Users\sist-gcalles\Source\Repos\Inventario\Inventario\bin\System.Web.WebPages.Deployment.xml
+C:\Users\sist-gcalles\Source\Repos\Inventario\Inventario\bin\System.Web.WebPages.Razor.xml
+C:\Users\sist-gcalles\Source\Repos\Inventario\Inventario\bin\Antlr3.Runtime.pdb
+C:\Users\sist-gcalles\Source\Repos\Inventario\Inventario\bin\Newtonsoft.Json.xml
+C:\Users\sist-gcalles\Source\Repos\Inventario\Inventario\bin\DATA.pdb
+C:\Users\sist-gcalles\Source\Repos\Inventario\Inventario\bin\es\System.Web.Helpers.resources.dll
+C:\Users\sist-gcalles\Source\Repos\Inventario\Inventario\bin\es\System.Web.Mvc.resources.dll
+C:\Users\sist-gcalles\Source\Repos\Inventario\Inventario\bin\es\System.Web.Optimization.resources.dll
+C:\Users\sist-gcalles\Source\Repos\Inventario\Inventario\bin\es\System.Web.Razor.resources.dll
+C:\Users\sist-gcalles\Source\Repos\Inventario\Inventario\bin\es\System.Web.WebPages.resources.dll
+C:\Users\sist-gcalles\Source\Repos\Inventario\Inventario\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\sist-gcalles\Source\Repos\Inventario\Inventario\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\sist-gcalles\Source\Repos\Inventario\Inventario\obj\Debug\Inventario.csprojResolveAssemblyReference.cache
+C:\Users\sist-gcalles\Source\Repos\Inventario\Inventario\obj\Debug\Inventario.dll
+C:\Users\sist-gcalles\Source\Repos\Inventario\Inventario\obj\Debug\Inventario.pdb
+C:\Users\sist-gcalles\Source\Repos\Inventario\Inventario\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\sist-gcalles\Source\Repos\Inventario\Inventario\bin\Microsoft.ApplicationInsights.dll
+C:\Users\sist-gcalles\Source\Repos\Inventario\Inventario\bin\Microsoft.ApplicationInsights.xml
+C:\Users\sist-gcalles\Source\Repos\Inventario\Inventario\bin\ApplicationInsights.config
+C:\Users\sist-gcalles\Source\Repos\Inventario\Inventario\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\sist-gcalles\Source\Repos\Inventario\Inventario\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\sist-gcalles\Source\Repos\Inventario\Inventario\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\sist-gcalles\Source\Repos\Inventario\Inventario\bin\Microsoft.AI.Web.dll
+C:\Users\sist-gcalles\Source\Repos\Inventario\Inventario\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\sist-gcalles\Source\Repos\Inventario\Inventario\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\sist-gcalles\Source\Repos\Inventario\Inventario\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\sist-gcalles\Source\Repos\Inventario\Inventario\bin\Microsoft.AI.Web.xml
+C:\Users\sist-gcalles\Source\Repos\Inventario\Inventario\bin\Microsoft.AI.WindowsServer.xml
+G:\Inventario\Inventario\bin\ApplicationInsights.config
+G:\Inventario\Inventario\bin\roslyn\csc.exe
+G:\Inventario\Inventario\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\Inventario\Inventario\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\Inventario\Inventario\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\Inventario\Inventario\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\Inventario\Inventario\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\Inventario\Inventario\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\Inventario\Inventario\bin\roslyn\System.Collections.Immutable.dll
+G:\Inventario\Inventario\bin\roslyn\System.Reflection.Metadata.dll
+G:\Inventario\Inventario\bin\roslyn\vbc.exe
+G:\Inventario\Inventario\bin\roslyn\VBCSCompiler.exe
+G:\Inventario\Inventario\bin\roslyn\VBCSCompiler.exe.config
+G:\Inventario\Inventario\bin\Inventario.dll.config
+G:\Inventario\Inventario\bin\Inventario.dll
+G:\Inventario\Inventario\bin\Inventario.pdb
+G:\Inventario\Inventario\bin\Antlr3.Runtime.dll
+G:\Inventario\Inventario\bin\LOGICA.dll
+G:\Inventario\Inventario\bin\Microsoft.AI.Agent.Intercept.dll
+G:\Inventario\Inventario\bin\Microsoft.AI.DependencyCollector.dll
+G:\Inventario\Inventario\bin\Microsoft.AI.PerfCounterCollector.dll
+G:\Inventario\Inventario\bin\Microsoft.AI.ServerTelemetryChannel.dll
+G:\Inventario\Inventario\bin\Microsoft.AI.Web.dll
+G:\Inventario\Inventario\bin\Microsoft.AI.WindowsServer.dll
+G:\Inventario\Inventario\bin\Microsoft.ApplicationInsights.dll
+G:\Inventario\Inventario\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\Inventario\Inventario\bin\Microsoft.Web.Infrastructure.dll
+G:\Inventario\Inventario\bin\Newtonsoft.Json.dll
+G:\Inventario\Inventario\bin\Rotativa.dll
+G:\Inventario\Inventario\bin\System.Web.Helpers.dll
+G:\Inventario\Inventario\bin\System.Web.Mvc.dll
+G:\Inventario\Inventario\bin\System.Web.Optimization.dll
+G:\Inventario\Inventario\bin\System.Web.Razor.dll
+G:\Inventario\Inventario\bin\System.Web.WebPages.Deployment.dll
+G:\Inventario\Inventario\bin\System.Web.WebPages.dll
+G:\Inventario\Inventario\bin\System.Web.WebPages.Razor.dll
+G:\Inventario\Inventario\bin\WebGrease.dll
+G:\Inventario\Inventario\bin\DATA.dll
+G:\Inventario\Inventario\bin\LOGICA.pdb
+G:\Inventario\Inventario\bin\Microsoft.AI.DependencyCollector.xml
+G:\Inventario\Inventario\bin\Microsoft.AI.ServerTelemetryChannel.xml
+G:\Inventario\Inventario\bin\Microsoft.AI.Web.xml
+G:\Inventario\Inventario\bin\Microsoft.AI.WindowsServer.xml
+G:\Inventario\Inventario\bin\Microsoft.ApplicationInsights.xml
+G:\Inventario\Inventario\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\Inventario\Inventario\bin\System.Web.Helpers.xml
+G:\Inventario\Inventario\bin\System.Web.Mvc.xml
+G:\Inventario\Inventario\bin\System.Web.Optimization.xml
+G:\Inventario\Inventario\bin\System.Web.Razor.xml
+G:\Inventario\Inventario\bin\System.Web.WebPages.xml
+G:\Inventario\Inventario\bin\System.Web.WebPages.Deployment.xml
+G:\Inventario\Inventario\bin\System.Web.WebPages.Razor.xml
+G:\Inventario\Inventario\bin\Antlr3.Runtime.pdb
+G:\Inventario\Inventario\bin\Newtonsoft.Json.xml
+G:\Inventario\Inventario\bin\DATA.pdb
+G:\Inventario\Inventario\bin\es\System.Web.Helpers.resources.dll
+G:\Inventario\Inventario\bin\es\System.Web.Mvc.resources.dll
+G:\Inventario\Inventario\bin\es\System.Web.Optimization.resources.dll
+G:\Inventario\Inventario\bin\es\System.Web.Razor.resources.dll
+G:\Inventario\Inventario\bin\es\System.Web.WebPages.resources.dll
+G:\Inventario\Inventario\bin\es\System.Web.WebPages.Deployment.resources.dll
+G:\Inventario\Inventario\bin\es\System.Web.WebPages.Razor.resources.dll
+G:\Inventario\Inventario\obj\Debug\Inventario.csprojResolveAssemblyReference.cache
+G:\Inventario\Inventario\obj\Debug\Inventario.dll
+G:\Inventario\Inventario\obj\Debug\Inventario.pdb
+D:\Trabajando\Inventario\Inventario\bin\ApplicationInsights.config
+D:\Trabajando\Inventario\Inventario\bin\roslyn\csc.exe
+D:\Trabajando\Inventario\Inventario\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Trabajando\Inventario\Inventario\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Trabajando\Inventario\Inventario\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Trabajando\Inventario\Inventario\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Trabajando\Inventario\Inventario\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Trabajando\Inventario\Inventario\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Trabajando\Inventario\Inventario\bin\roslyn\System.Collections.Immutable.dll
+D:\Trabajando\Inventario\Inventario\bin\roslyn\System.Reflection.Metadata.dll
+D:\Trabajando\Inventario\Inventario\bin\roslyn\vbc.exe
+D:\Trabajando\Inventario\Inventario\bin\roslyn\VBCSCompiler.exe
+D:\Trabajando\Inventario\Inventario\bin\roslyn\VBCSCompiler.exe.config
+D:\Trabajando\Inventario\Inventario\bin\Inventario.dll.config
+D:\Trabajando\Inventario\Inventario\bin\Inventario.dll
+D:\Trabajando\Inventario\Inventario\bin\Inventario.pdb
+D:\Trabajando\Inventario\Inventario\bin\Antlr3.Runtime.dll
+D:\Trabajando\Inventario\Inventario\bin\LOGICA.dll
+D:\Trabajando\Inventario\Inventario\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Trabajando\Inventario\Inventario\bin\Microsoft.AI.DependencyCollector.dll
+D:\Trabajando\Inventario\Inventario\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Trabajando\Inventario\Inventario\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Trabajando\Inventario\Inventario\bin\Microsoft.AI.Web.dll
+D:\Trabajando\Inventario\Inventario\bin\Microsoft.AI.WindowsServer.dll
+D:\Trabajando\Inventario\Inventario\bin\Microsoft.ApplicationInsights.dll
+D:\Trabajando\Inventario\Inventario\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Trabajando\Inventario\Inventario\bin\Microsoft.Web.Infrastructure.dll
+D:\Trabajando\Inventario\Inventario\bin\Newtonsoft.Json.dll
+D:\Trabajando\Inventario\Inventario\bin\Rotativa.dll
+D:\Trabajando\Inventario\Inventario\bin\System.Web.Helpers.dll
+D:\Trabajando\Inventario\Inventario\bin\System.Web.Mvc.dll
+D:\Trabajando\Inventario\Inventario\bin\System.Web.Optimization.dll
+D:\Trabajando\Inventario\Inventario\bin\System.Web.Razor.dll
+D:\Trabajando\Inventario\Inventario\bin\System.Web.WebPages.Deployment.dll
+D:\Trabajando\Inventario\Inventario\bin\System.Web.WebPages.dll
+D:\Trabajando\Inventario\Inventario\bin\System.Web.WebPages.Razor.dll
+D:\Trabajando\Inventario\Inventario\bin\WebGrease.dll
+D:\Trabajando\Inventario\Inventario\bin\DATA.dll
+D:\Trabajando\Inventario\Inventario\bin\LOGICA.pdb
+D:\Trabajando\Inventario\Inventario\bin\Microsoft.AI.DependencyCollector.xml
+D:\Trabajando\Inventario\Inventario\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Trabajando\Inventario\Inventario\bin\Microsoft.AI.Web.xml
+D:\Trabajando\Inventario\Inventario\bin\Microsoft.AI.WindowsServer.xml
+D:\Trabajando\Inventario\Inventario\bin\Microsoft.ApplicationInsights.xml
+D:\Trabajando\Inventario\Inventario\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Trabajando\Inventario\Inventario\bin\System.Web.Helpers.xml
+D:\Trabajando\Inventario\Inventario\bin\System.Web.Mvc.xml
+D:\Trabajando\Inventario\Inventario\bin\System.Web.Optimization.xml
+D:\Trabajando\Inventario\Inventario\bin\System.Web.Razor.xml
+D:\Trabajando\Inventario\Inventario\bin\System.Web.WebPages.xml
+D:\Trabajando\Inventario\Inventario\bin\System.Web.WebPages.Deployment.xml
+D:\Trabajando\Inventario\Inventario\bin\System.Web.WebPages.Razor.xml
+D:\Trabajando\Inventario\Inventario\bin\Antlr3.Runtime.pdb
+D:\Trabajando\Inventario\Inventario\bin\Newtonsoft.Json.xml
+D:\Trabajando\Inventario\Inventario\bin\DATA.pdb
+D:\Trabajando\Inventario\Inventario\bin\es\System.Web.Helpers.resources.dll
+D:\Trabajando\Inventario\Inventario\bin\es\System.Web.Mvc.resources.dll
+D:\Trabajando\Inventario\Inventario\bin\es\System.Web.Optimization.resources.dll
+D:\Trabajando\Inventario\Inventario\bin\es\System.Web.Razor.resources.dll
+D:\Trabajando\Inventario\Inventario\bin\es\System.Web.WebPages.resources.dll
+D:\Trabajando\Inventario\Inventario\bin\es\System.Web.WebPages.Deployment.resources.dll
+D:\Trabajando\Inventario\Inventario\bin\es\System.Web.WebPages.Razor.resources.dll
+D:\Trabajando\Inventario\Inventario\obj\Debug\Inventario.csprojResolveAssemblyReference.cache
+D:\Trabajando\Inventario\Inventario\obj\Debug\Inventario.dll
+D:\Trabajando\Inventario\Inventario\obj\Debug\Inventario.pdb
+E:\Inventario\Inventario\bin\ApplicationInsights.config
+E:\Inventario\Inventario\bin\roslyn\csc.exe
+E:\Inventario\Inventario\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Inventario\Inventario\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Inventario\Inventario\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Inventario\Inventario\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Inventario\Inventario\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Inventario\Inventario\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Inventario\Inventario\bin\roslyn\System.Collections.Immutable.dll
+E:\Inventario\Inventario\bin\roslyn\System.Reflection.Metadata.dll
+E:\Inventario\Inventario\bin\roslyn\vbc.exe
+E:\Inventario\Inventario\bin\roslyn\VBCSCompiler.exe
+E:\Inventario\Inventario\bin\roslyn\VBCSCompiler.exe.config
+E:\Inventario\Inventario\bin\Inventario.dll.config
+E:\Inventario\Inventario\bin\Inventario.dll
+E:\Inventario\Inventario\bin\Inventario.pdb
+E:\Inventario\Inventario\bin\Antlr3.Runtime.dll
+E:\Inventario\Inventario\bin\LOGICA.dll
+E:\Inventario\Inventario\bin\Microsoft.AI.Agent.Intercept.dll
+E:\Inventario\Inventario\bin\Microsoft.AI.DependencyCollector.dll
+E:\Inventario\Inventario\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\Inventario\Inventario\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\Inventario\Inventario\bin\Microsoft.AI.Web.dll
+E:\Inventario\Inventario\bin\Microsoft.AI.WindowsServer.dll
+E:\Inventario\Inventario\bin\Microsoft.ApplicationInsights.dll
+E:\Inventario\Inventario\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Inventario\Inventario\bin\Microsoft.Web.Infrastructure.dll
+E:\Inventario\Inventario\bin\Newtonsoft.Json.dll
+E:\Inventario\Inventario\bin\Rotativa.dll
+E:\Inventario\Inventario\bin\System.Web.Helpers.dll
+E:\Inventario\Inventario\bin\System.Web.Mvc.dll
+E:\Inventario\Inventario\bin\System.Web.Optimization.dll
+E:\Inventario\Inventario\bin\System.Web.Razor.dll
+E:\Inventario\Inventario\bin\System.Web.WebPages.Deployment.dll
+E:\Inventario\Inventario\bin\System.Web.WebPages.dll
+E:\Inventario\Inventario\bin\System.Web.WebPages.Razor.dll
+E:\Inventario\Inventario\bin\WebGrease.dll
+E:\Inventario\Inventario\bin\DATA.dll
+E:\Inventario\Inventario\bin\LOGICA.pdb
+E:\Inventario\Inventario\bin\Microsoft.AI.DependencyCollector.xml
+E:\Inventario\Inventario\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\Inventario\Inventario\bin\Microsoft.AI.Web.xml
+E:\Inventario\Inventario\bin\Microsoft.AI.WindowsServer.xml
+E:\Inventario\Inventario\bin\Microsoft.ApplicationInsights.xml
+E:\Inventario\Inventario\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Inventario\Inventario\bin\System.Web.Helpers.xml
+E:\Inventario\Inventario\bin\System.Web.Mvc.xml
+E:\Inventario\Inventario\bin\System.Web.Optimization.xml
+E:\Inventario\Inventario\bin\System.Web.Razor.xml
+E:\Inventario\Inventario\bin\System.Web.WebPages.xml
+E:\Inventario\Inventario\bin\System.Web.WebPages.Deployment.xml
+E:\Inventario\Inventario\bin\System.Web.WebPages.Razor.xml
+E:\Inventario\Inventario\bin\Antlr3.Runtime.pdb
+E:\Inventario\Inventario\bin\Newtonsoft.Json.xml
+E:\Inventario\Inventario\bin\DATA.pdb
+E:\Inventario\Inventario\bin\es\System.Web.Helpers.resources.dll
+E:\Inventario\Inventario\bin\es\System.Web.Mvc.resources.dll
+E:\Inventario\Inventario\bin\es\System.Web.Optimization.resources.dll
+E:\Inventario\Inventario\bin\es\System.Web.Razor.resources.dll
+E:\Inventario\Inventario\bin\es\System.Web.WebPages.resources.dll
+E:\Inventario\Inventario\bin\es\System.Web.WebPages.Deployment.resources.dll
+E:\Inventario\Inventario\bin\es\System.Web.WebPages.Razor.resources.dll
+E:\Inventario\Inventario\obj\Debug\Inventario.csprojResolveAssemblyReference.cache
+E:\Inventario\Inventario\obj\Debug\Inventario.dll
+E:\Inventario\Inventario\obj\Debug\Inventario.pdb
+D:\Proyectos\VS 2017\Inventario\Inventario\bin\ApplicationInsights.config
+D:\Proyectos\VS 2017\Inventario\Inventario\bin\roslyn\csc.exe
+D:\Proyectos\VS 2017\Inventario\Inventario\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Proyectos\VS 2017\Inventario\Inventario\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Proyectos\VS 2017\Inventario\Inventario\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Proyectos\VS 2017\Inventario\Inventario\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Proyectos\VS 2017\Inventario\Inventario\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Proyectos\VS 2017\Inventario\Inventario\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Proyectos\VS 2017\Inventario\Inventario\bin\roslyn\System.Collections.Immutable.dll
+D:\Proyectos\VS 2017\Inventario\Inventario\bin\roslyn\System.Reflection.Metadata.dll
+D:\Proyectos\VS 2017\Inventario\Inventario\bin\roslyn\vbc.exe
+D:\Proyectos\VS 2017\Inventario\Inventario\bin\roslyn\VBCSCompiler.exe
+D:\Proyectos\VS 2017\Inventario\Inventario\bin\roslyn\VBCSCompiler.exe.config
+D:\Proyectos\VS 2017\Inventario\Inventario\bin\Inventario.dll.config
+D:\Proyectos\VS 2017\Inventario\Inventario\bin\Inventario.dll
+D:\Proyectos\VS 2017\Inventario\Inventario\bin\Inventario.pdb
+D:\Proyectos\VS 2017\Inventario\Inventario\bin\Antlr3.Runtime.dll
+D:\Proyectos\VS 2017\Inventario\Inventario\bin\LOGICA.dll
+D:\Proyectos\VS 2017\Inventario\Inventario\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Proyectos\VS 2017\Inventario\Inventario\bin\Microsoft.AI.DependencyCollector.dll
+D:\Proyectos\VS 2017\Inventario\Inventario\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Proyectos\VS 2017\Inventario\Inventario\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Proyectos\VS 2017\Inventario\Inventario\bin\Microsoft.AI.Web.dll
+D:\Proyectos\VS 2017\Inventario\Inventario\bin\Microsoft.AI.WindowsServer.dll
+D:\Proyectos\VS 2017\Inventario\Inventario\bin\Microsoft.ApplicationInsights.dll
+D:\Proyectos\VS 2017\Inventario\Inventario\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Proyectos\VS 2017\Inventario\Inventario\bin\Microsoft.Web.Infrastructure.dll
+D:\Proyectos\VS 2017\Inventario\Inventario\bin\Newtonsoft.Json.dll
+D:\Proyectos\VS 2017\Inventario\Inventario\bin\Rotativa.dll
+D:\Proyectos\VS 2017\Inventario\Inventario\bin\System.Web.Helpers.dll
+D:\Proyectos\VS 2017\Inventario\Inventario\bin\System.Web.Mvc.dll
+D:\Proyectos\VS 2017\Inventario\Inventario\bin\System.Web.Optimization.dll
+D:\Proyectos\VS 2017\Inventario\Inventario\bin\System.Web.Razor.dll
+D:\Proyectos\VS 2017\Inventario\Inventario\bin\System.Web.WebPages.Deployment.dll
+D:\Proyectos\VS 2017\Inventario\Inventario\bin\System.Web.WebPages.dll
+D:\Proyectos\VS 2017\Inventario\Inventario\bin\System.Web.WebPages.Razor.dll
+D:\Proyectos\VS 2017\Inventario\Inventario\bin\WebGrease.dll
+D:\Proyectos\VS 2017\Inventario\Inventario\bin\DATA.dll
+D:\Proyectos\VS 2017\Inventario\Inventario\bin\LOGICA.pdb
+D:\Proyectos\VS 2017\Inventario\Inventario\bin\Microsoft.AI.DependencyCollector.xml
+D:\Proyectos\VS 2017\Inventario\Inventario\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Proyectos\VS 2017\Inventario\Inventario\bin\Microsoft.AI.Web.xml
+D:\Proyectos\VS 2017\Inventario\Inventario\bin\Microsoft.AI.WindowsServer.xml
+D:\Proyectos\VS 2017\Inventario\Inventario\bin\Microsoft.ApplicationInsights.xml
+D:\Proyectos\VS 2017\Inventario\Inventario\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Proyectos\VS 2017\Inventario\Inventario\bin\System.Web.Helpers.xml
+D:\Proyectos\VS 2017\Inventario\Inventario\bin\System.Web.Mvc.xml
+D:\Proyectos\VS 2017\Inventario\Inventario\bin\System.Web.Optimization.xml
+D:\Proyectos\VS 2017\Inventario\Inventario\bin\System.Web.Razor.xml
+D:\Proyectos\VS 2017\Inventario\Inventario\bin\System.Web.WebPages.xml
+D:\Proyectos\VS 2017\Inventario\Inventario\bin\System.Web.WebPages.Deployment.xml
+D:\Proyectos\VS 2017\Inventario\Inventario\bin\System.Web.WebPages.Razor.xml
+D:\Proyectos\VS 2017\Inventario\Inventario\bin\Antlr3.Runtime.pdb
+D:\Proyectos\VS 2017\Inventario\Inventario\bin\Newtonsoft.Json.xml
+D:\Proyectos\VS 2017\Inventario\Inventario\bin\DATA.pdb
+D:\Proyectos\VS 2017\Inventario\Inventario\bin\es\System.Web.Helpers.resources.dll
+D:\Proyectos\VS 2017\Inventario\Inventario\bin\es\System.Web.Mvc.resources.dll
+D:\Proyectos\VS 2017\Inventario\Inventario\bin\es\System.Web.Optimization.resources.dll
+D:\Proyectos\VS 2017\Inventario\Inventario\bin\es\System.Web.Razor.resources.dll
+D:\Proyectos\VS 2017\Inventario\Inventario\bin\es\System.Web.WebPages.resources.dll
+D:\Proyectos\VS 2017\Inventario\Inventario\bin\es\System.Web.WebPages.Deployment.resources.dll
+D:\Proyectos\VS 2017\Inventario\Inventario\bin\es\System.Web.WebPages.Razor.resources.dll
+D:\Proyectos\VS 2017\Inventario\Inventario\obj\Debug\Inventario.csprojResolveAssemblyReference.cache
+D:\Proyectos\VS 2017\Inventario\Inventario\obj\Debug\Inventario.csproj.CoreCompileInputs.cache
+D:\Proyectos\VS 2017\Inventario\Inventario\obj\Debug\Inventario.dll
+D:\Proyectos\VS 2017\Inventario\Inventario\obj\Debug\Inventario.pdb
+D:\Proyectos\VS 2017\Inventario\Inventario\obj\Debug\Inventario.csproj.CopyComplete
